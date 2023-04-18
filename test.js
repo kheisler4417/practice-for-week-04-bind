@@ -29,3 +29,5 @@ setTimeout(function () {
     const boundSayOccupation = johnWick.sayOccupation.bind(johnWick);
     boundSayOccupation(); // This will print "John Wick is a Dog Lover." with `bind`.
 }, 8000);
+
+//test
